@@ -2,18 +2,21 @@ import "./index.css";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="container_main">
+      <nav>
       <img
         src="https://curso.infnet.com.br/c/wp-content/uploads/sites/5/2022/12/Infnet-Logo.png"
-        alt=""
+        alt="Logo Infnet"
       />
+      <span>Instituto Infnet</span>
+    </nav>
       <h1>Teste de Perfomance 2 | Fundamentos de React</h1>
       <ul>
         <li>
           <a href="src/01/index.html">TP2.1</a>
         </li>
         <li>
-          <a href="#">TP2.2</a>
+          <a href="src/02/index.html">TP2.2</a>
         </li>
         <li>
           <a href="#">TP2.3</a>
