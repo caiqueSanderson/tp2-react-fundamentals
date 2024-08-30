@@ -22,7 +22,7 @@ export default function App() {
           <a href="src/03/index.html">TP2.3</a>
         </li>
         <li>
-          <a href="#">TP2.4</a>
+          <a href="src/04/index.html">TP2.4</a>
         </li>
         <li>
           <a href="#">TP2.5</a>
