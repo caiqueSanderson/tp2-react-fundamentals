@@ -28,7 +28,7 @@ export default function App() {
           <a href="src/05/index.html">TP2.5</a>
         </li>
         <li>
-          <a href="#">TP2.6</a>
+          <a href="src/06/index.html">TP2.6</a>
         </li>
         <li>
           <a href="#">TP2.7</a>
