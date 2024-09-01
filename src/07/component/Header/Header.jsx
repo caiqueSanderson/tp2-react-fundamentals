@@ -1,14 +1,16 @@
-import "./styles.css";
+import styles from "./styles.module.css";
 
 export default function Header() {
     return (
-        <header className="header">
+        <header className={styles.header}>
             <img
-                className="header-logo"
+                className={styles.headerLogo}
                 src="https://img.myloview.com.br/adesivos/foto-nao-encontrada-icone-vector-simbolo-sinal-400-133715057.jpg"
                 alt="Logo"
             />
-            <span className="header-title">Header</span>
+            <span className={styles.headerTitle}>
+                Header
+            </span>
         </header>
     )
 }

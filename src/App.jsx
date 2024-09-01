@@ -31,7 +31,7 @@ export default function App() {
           <a href="src/06/index.html">TP2.6</a>
         </li>
         <li>
-          <a href="#">TP2.7</a>
+          <a href="src/07/index.html">TP2.7</a>
         </li>
         <li>
           <a href="#">TP2.8</a>
