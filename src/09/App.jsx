@@ -1,18 +1,16 @@
 import styles from "./styles.module.css";
 
 import Header from "./components/Header/Header";
-import Card from "./components/Card/Card";
+import Home from "./components/About/Home";
+import Products from "./components/Products/Products";
 import Footer from "./components/Footer/Footer";
 
 export default function App() {
     return (
-        <div>
+        <div className={styles.components}>
             <Header />
-            <div className={styles.cards}>
-                <Card />
-                <Card />
-            </div>
-
+            <Home />
+            <Products />
             <Footer />
         </div>
     )
