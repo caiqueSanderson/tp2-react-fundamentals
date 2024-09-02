@@ -37,19 +37,19 @@ export default function App() {
           <a href="src/08/index.html">TP2.8</a>
         </li>
         <li>
-          <a href="#">TP2.9</a>
+          <a href="src/09/index.html">TP2.9</a>
         </li>
         <li>
-          <a href="#">TP2.10</a>
+          <a href="src/10/index.html">TP2.10</a>
         </li>
         <li>
-          <a href="#">TP2.11</a>
+          <a href="src/11/src/index.html">TP2.11</a>
         </li>
         <li>
-          <a href="#">TP2.12</a>
+          <a href="src/12/src/index.html">TP2.12</a>
         </li>
         <li>
-          <a href="#">TP2.13</a>
+          <a href="src/13/src/index.html">TP2.13</a>
         </li>
         <li>
           <a href="#">TP2.14</a>

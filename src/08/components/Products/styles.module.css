@@ -15,9 +15,9 @@
 .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px; /* Espaço entre os cards */
-    justify-content: center; /* Centraliza o grid horizontalmente */
-    align-items: center; /* Centraliza o conteúdo dos cards verticalmente */
-    width: fit-content; /* Ajusta a largura do grid ao seu conteúdo */
-    margin: 0 auto; /* Centraliza o contêiner do grid na página */
+    gap: 20px; 
+    justify-content: center; 
+    align-items: center; 
+    width: fit-content; 
+    margin: 0 auto; 
 }
